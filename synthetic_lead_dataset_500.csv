@@ -1,0 +1,501 @@
+lead_id,lead_source,age_band,enquiry_topic,risk_comfort_self_reported,intent_signal,responded,meeting_status,final_stage,consent_to_contact
+L0001,College Event,46-55,Tax-saving options,High,Low,No,No,Not Qualified / No Response,Yes
+L0002,LinkedIn,56+,Retirement planning,Moderate,Medium,No,No,Not Qualified / No Response,No
+L0003,LinkedIn,18-25,General financial education,High,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0004,LinkedIn,18-25,Tax-saving options,High,Low,No,No,Not Qualified / No Response,Yes
+L0005,Website,36-45,General financial education,Moderate,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0006,Referral,46-55,Tax-saving options,High,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0007,Instagram,56+,General financial education,Moderate,Medium,Yes,No,Not Qualified / No Response,Yes
+L0008,Referral,26-35,Goal-based investing,High,Low,No,No,Not Qualified / No Response,Yes
+L0009,Referral,46-55,Goal-based investing,Moderate,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0010,Website,36-45,General financial education,High,Medium,No,No,Not Qualified / No Response,Yes
+L0011,Instagram,36-45,Retirement planning,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0012,LinkedIn,56+,SIP basics,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0013,College Event,26-35,Goal-based investing,Moderate,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0014,Website,46-55,Retirement planning,Low,Low,No,No,Not Qualified / No Response,Yes
+L0015,College Event,26-35,SIP basics,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0016,LinkedIn,56+,General financial education,High,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0017,College Event,46-55,Retirement planning,High,Medium,Yes,No,Not Qualified / No Response,Yes
+L0018,Instagram,36-45,General financial education,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0019,Website,36-45,Retirement planning,Moderate,Medium,Yes,No,Not Qualified / No Response,Yes
+L0020,Instagram,26-35,Goal-based investing,High,Low,No,No,Not Qualified / No Response,Yes
+L0021,LinkedIn,46-55,Tax-saving options,High,Low,No,No,Not Qualified / No Response,Yes
+L0022,LinkedIn,46-55,General financial education,High,Low,No,No,Not Qualified / No Response,No
+L0023,Website,36-45,Tax-saving options,Moderate,Medium,Yes,No,Not Qualified / No Response,Yes
+L0024,LinkedIn,26-35,Tax-saving options,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0025,LinkedIn,36-45,Goal-based investing,High,High,Yes,Scheduled,Meeting Scheduled,Yes
+L0026,College Event,56+,SIP basics,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0027,LinkedIn,26-35,Goal-based investing,Low,Low,No,No,Not Qualified / No Response,No
+L0028,Instagram,46-55,Tax-saving options,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0029,LinkedIn,36-45,SIP basics,Moderate,Medium,No,No,Not Qualified / No Response,No
+L0030,Instagram,18-25,SIP basics,Low,Low,No,No,Not Qualified / No Response,Yes
+L0031,College Event,26-35,Retirement planning,Low,Low,No,No,Not Qualified / No Response,Yes
+L0032,LinkedIn,36-45,Tax-saving options,Low,Low,No,No,Not Qualified / No Response,Yes
+L0033,Referral,18-25,General financial education,Low,Low,No,No,Not Qualified / No Response,Yes
+L0034,College Event,46-55,Goal-based investing,High,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0035,Referral,56+,SIP basics,High,Low,No,No,Not Qualified / No Response,Yes
+L0036,Referral,56+,Goal-based investing,High,Medium,Yes,Scheduled,Meeting Scheduled,Yes
+L0037,LinkedIn,46-55,SIP basics,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0038,LinkedIn,26-35,Goal-based investing,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0039,LinkedIn,46-55,General financial education,Moderate,Medium,Yes,No,Not Qualified / No Response,Yes
+L0040,Referral,46-55,Retirement planning,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0041,Website,46-55,Tax-saving options,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0042,Referral,36-45,General financial education,High,Medium,No,No,Not Qualified / No Response,Yes
+L0043,Website,26-35,Goal-based investing,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0044,LinkedIn,46-55,SIP basics,Low,Low,Yes,No,Not Qualified / No Response,Yes
+L0045,Referral,56+,Tax-saving options,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0046,College Event,36-45,Tax-saving options,High,Medium,Yes,No,Not Qualified / No Response,Yes
+L0047,Instagram,18-25,Retirement planning,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0048,Instagram,46-55,Tax-saving options,High,Low,No,No,Not Qualified / No Response,Yes
+L0049,Instagram,36-45,Retirement planning,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0050,Referral,18-25,SIP basics,High,Low,No,No,Not Qualified / No Response,Yes
+L0051,Instagram,46-55,SIP basics,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0052,LinkedIn,46-55,Goal-based investing,Moderate,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0053,LinkedIn,18-25,SIP basics,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0054,Instagram,56+,Tax-saving options,Low,Low,No,No,Not Qualified / No Response,Yes
+L0055,Website,56+,Goal-based investing,High,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0056,LinkedIn,46-55,Tax-saving options,High,Low,Yes,No,Not Qualified / No Response,Yes
+L0057,College Event,18-25,Retirement planning,High,Medium,No,No,Not Qualified / No Response,Yes
+L0058,Instagram,26-35,General financial education,Low,Low,No,No,Not Qualified / No Response,Yes
+L0059,College Event,46-55,Tax-saving options,Low,Medium,Yes,No,Not Qualified / No Response,Yes
+L0060,Website,26-35,Tax-saving options,High,Medium,Yes,No,Not Qualified / No Response,Yes
+L0061,Website,56+,Retirement planning,High,Low,Yes,No,Not Qualified / No Response,Yes
+L0062,Website,18-25,Retirement planning,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0063,College Event,36-45,Goal-based investing,Low,High,Yes,Scheduled,Meeting Scheduled,Yes
+L0064,Referral,56+,General financial education,Moderate,Medium,Yes,No,Not Qualified / No Response,Yes
+L0065,College Event,18-25,Goal-based investing,High,High,Yes,Scheduled,Meeting Scheduled,Yes
+L0066,Referral,18-25,SIP basics,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0067,College Event,18-25,Retirement planning,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0068,Instagram,56+,Goal-based investing,High,Medium,No,No,Not Qualified / No Response,Yes
+L0069,Referral,46-55,Tax-saving options,Moderate,Low,Yes,No,Not Qualified / No Response,Yes
+L0070,LinkedIn,46-55,Tax-saving options,High,Low,No,No,Not Qualified / No Response,Yes
+L0071,College Event,18-25,Goal-based investing,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0072,LinkedIn,56+,SIP basics,High,Medium,No,No,Not Qualified / No Response,Yes
+L0073,Website,26-35,General financial education,Moderate,Medium,Yes,No,Not Qualified / No Response,Yes
+L0074,Website,26-35,Tax-saving options,High,Medium,Yes,No,Not Qualified / No Response,Yes
+L0075,LinkedIn,18-25,SIP basics,High,Medium,Yes,No,Not Qualified / No Response,Yes
+L0076,Referral,56+,SIP basics,High,Low,No,No,Not Qualified / No Response,Yes
+L0077,LinkedIn,18-25,Retirement planning,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0078,LinkedIn,46-55,Goal-based investing,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0079,Instagram,56+,General financial education,High,Low,Yes,No,Not Qualified / No Response,Yes
+L0080,LinkedIn,36-45,General financial education,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0081,Referral,36-45,General financial education,High,High,Yes,Scheduled,Meeting Scheduled,Yes
+L0082,LinkedIn,26-35,Goal-based investing,High,Medium,Yes,Scheduled,Meeting Scheduled,Yes
+L0083,LinkedIn,36-45,Retirement planning,High,Medium,Yes,No,Not Qualified / No Response,Yes
+L0084,LinkedIn,18-25,Tax-saving options,High,Medium,No,No,Not Qualified / No Response,Yes
+L0085,Instagram,46-55,SIP basics,Low,Medium,Yes,No,Not Qualified / No Response,Yes
+L0086,LinkedIn,18-25,General financial education,Moderate,Medium,No,No,Not Qualified / No Response,No
+L0087,Instagram,18-25,Goal-based investing,Moderate,Low,Yes,No,Not Qualified / No Response,Yes
+L0088,LinkedIn,18-25,Tax-saving options,High,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0089,LinkedIn,56+,SIP basics,High,Medium,No,No,Not Qualified / No Response,No
+L0090,Referral,26-35,SIP basics,Moderate,Medium,Yes,Scheduled,Meeting Scheduled,Yes
+L0091,Website,46-55,Retirement planning,High,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0092,Referral,18-25,Tax-saving options,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0093,College Event,46-55,General financial education,High,Low,No,No,Not Qualified / No Response,Yes
+L0094,Website,56+,Goal-based investing,High,Low,No,No,Not Qualified / No Response,Yes
+L0095,Instagram,46-55,Tax-saving options,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0096,Website,46-55,Tax-saving options,High,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0097,Website,46-55,Tax-saving options,High,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0098,LinkedIn,36-45,Retirement planning,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0099,LinkedIn,56+,Tax-saving options,High,Low,No,No,Not Qualified / No Response,Yes
+L0100,LinkedIn,36-45,SIP basics,High,Medium,No,No,Not Qualified / No Response,Yes
+L0101,Referral,26-35,General financial education,Moderate,Low,Yes,No,Not Qualified / No Response,Yes
+L0102,Instagram,18-25,SIP basics,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0103,Instagram,18-25,Tax-saving options,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0104,Instagram,56+,Tax-saving options,High,Low,No,No,Not Qualified / No Response,Yes
+L0105,Referral,26-35,Tax-saving options,Moderate,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0106,Website,46-55,SIP basics,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0107,College Event,36-45,SIP basics,Moderate,Low,Yes,No,Not Qualified / No Response,No
+L0108,Referral,36-45,General financial education,Moderate,Low,Yes,No,Not Qualified / No Response,Yes
+L0109,Instagram,46-55,SIP basics,High,Medium,No,No,Not Qualified / No Response,Yes
+L0110,Website,46-55,Tax-saving options,High,Medium,No,No,Not Qualified / No Response,Yes
+L0111,Instagram,18-25,SIP basics,Moderate,High,Yes,Scheduled,Meeting Scheduled,Yes
+L0112,Instagram,56+,Retirement planning,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0113,College Event,46-55,General financial education,High,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0114,LinkedIn,18-25,Goal-based investing,High,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0115,Referral,26-35,Goal-based investing,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0116,Referral,56+,Tax-saving options,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0117,LinkedIn,18-25,Retirement planning,High,Low,No,No,Not Qualified / No Response,Yes
+L0118,Referral,26-35,Retirement planning,High,Low,No,No,Not Qualified / No Response,Yes
+L0119,College Event,26-35,General financial education,Low,High,Yes,Scheduled,Meeting Scheduled,Yes
+L0120,Instagram,56+,SIP basics,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0121,Instagram,26-35,General financial education,Moderate,High,Yes,Scheduled,Meeting Scheduled,Yes
+L0122,Instagram,18-25,Tax-saving options,Low,Low,No,No,Not Qualified / No Response,Yes
+L0123,Referral,18-25,Retirement planning,High,Low,No,No,Not Qualified / No Response,Yes
+L0124,LinkedIn,46-55,Tax-saving options,High,Low,No,No,Not Qualified / No Response,Yes
+L0125,College Event,18-25,General financial education,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0126,LinkedIn,46-55,Goal-based investing,High,Low,No,No,Not Qualified / No Response,Yes
+L0127,Website,36-45,General financial education,Low,Medium,No,No,Not Qualified / No Response,No
+L0128,LinkedIn,56+,General financial education,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0129,Website,56+,Retirement planning,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0130,Referral,46-55,Goal-based investing,Moderate,Low,Yes,No,Not Qualified / No Response,Yes
+L0131,Referral,36-45,Tax-saving options,Low,Medium,Yes,No,Not Qualified / No Response,Yes
+L0132,LinkedIn,18-25,SIP basics,Low,High,Yes,Completed,Converted,Yes
+L0133,Website,36-45,Retirement planning,High,High,Yes,Scheduled,Meeting Scheduled,No
+L0134,LinkedIn,36-45,Goal-based investing,High,Medium,No,No,Not Qualified / No Response,No
+L0135,Referral,18-25,General financial education,High,Medium,No,No,Not Qualified / No Response,Yes
+L0136,LinkedIn,26-35,SIP basics,Moderate,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0137,Referral,56+,Retirement planning,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0138,Website,26-35,Tax-saving options,High,Low,No,No,Not Qualified / No Response,Yes
+L0139,Website,26-35,Retirement planning,High,Medium,No,No,Not Qualified / No Response,Yes
+L0140,Website,18-25,General financial education,Low,Low,No,No,Not Qualified / No Response,Yes
+L0141,Instagram,36-45,Tax-saving options,High,Medium,No,No,Not Qualified / No Response,Yes
+L0142,Instagram,26-35,General financial education,Low,Low,No,No,Not Qualified / No Response,Yes
+L0143,Referral,46-55,Goal-based investing,Moderate,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0144,Instagram,56+,SIP basics,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0145,College Event,36-45,SIP basics,Low,Medium,Yes,No,Not Qualified / No Response,Yes
+L0146,Instagram,36-45,Retirement planning,Low,Low,No,No,Not Qualified / No Response,Yes
+L0147,Website,18-25,Goal-based investing,High,Medium,No,No,Not Qualified / No Response,Yes
+L0148,College Event,26-35,General financial education,High,Low,Yes,No,Not Qualified / No Response,Yes
+L0149,LinkedIn,18-25,Goal-based investing,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0150,College Event,46-55,General financial education,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0151,Website,46-55,SIP basics,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0152,Website,46-55,SIP basics,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0153,LinkedIn,36-45,Tax-saving options,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0154,College Event,18-25,General financial education,High,Low,No,No,Not Qualified / No Response,Yes
+L0155,Instagram,26-35,SIP basics,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0156,Website,26-35,Goal-based investing,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0157,Referral,26-35,Goal-based investing,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0158,Referral,36-45,General financial education,Low,Medium,Yes,Scheduled,Meeting Scheduled,Yes
+L0159,LinkedIn,46-55,SIP basics,Low,Low,No,No,Not Qualified / No Response,Yes
+L0160,Referral,18-25,SIP basics,High,Medium,Yes,Scheduled,Meeting Scheduled,Yes
+L0161,College Event,56+,SIP basics,Moderate,Medium,Yes,No,Not Qualified / No Response,Yes
+L0162,College Event,46-55,General financial education,Low,Low,No,No,Not Qualified / No Response,Yes
+L0163,Referral,18-25,General financial education,High,Medium,No,No,Not Qualified / No Response,Yes
+L0164,LinkedIn,56+,General financial education,High,Low,Yes,No,Not Qualified / No Response,Yes
+L0165,LinkedIn,46-55,Tax-saving options,High,Medium,No,No,Not Qualified / No Response,Yes
+L0166,Referral,18-25,General financial education,High,Medium,No,No,Not Qualified / No Response,Yes
+L0167,Referral,18-25,General financial education,High,Medium,No,No,Not Qualified / No Response,Yes
+L0168,LinkedIn,26-35,General financial education,High,Medium,No,No,Not Qualified / No Response,Yes
+L0169,Referral,26-35,General financial education,Low,Medium,Yes,No,Not Qualified / No Response,Yes
+L0170,Website,36-45,Tax-saving options,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0171,Instagram,26-35,Retirement planning,Low,Medium,Yes,No,Not Qualified / No Response,No
+L0172,Referral,56+,Retirement planning,High,Low,No,No,Not Qualified / No Response,Yes
+L0173,College Event,26-35,Goal-based investing,Low,Low,No,No,Not Qualified / No Response,Yes
+L0174,Instagram,46-55,General financial education,Moderate,Medium,Yes,Scheduled,Meeting Scheduled,Yes
+L0175,LinkedIn,26-35,General financial education,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0176,LinkedIn,26-35,Tax-saving options,High,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0177,Referral,46-55,General financial education,High,Medium,Yes,No,Not Qualified / No Response,Yes
+L0178,Instagram,26-35,General financial education,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0179,Referral,56+,SIP basics,High,Low,Yes,No,Not Qualified / No Response,Yes
+L0180,Website,26-35,Tax-saving options,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0181,Website,26-35,Goal-based investing,Moderate,Low,Yes,No,Not Qualified / No Response,Yes
+L0182,LinkedIn,56+,Tax-saving options,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0183,Instagram,18-25,Tax-saving options,Low,Low,No,No,Not Qualified / No Response,Yes
+L0184,Instagram,18-25,Tax-saving options,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0185,LinkedIn,56+,SIP basics,Low,Low,Yes,No,Not Qualified / No Response,No
+L0186,Instagram,26-35,General financial education,High,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0187,LinkedIn,18-25,Tax-saving options,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0188,LinkedIn,56+,Goal-based investing,Low,Low,No,No,Not Qualified / No Response,Yes
+L0189,LinkedIn,56+,General financial education,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0190,Referral,46-55,SIP basics,High,Low,No,No,Not Qualified / No Response,Yes
+L0191,Website,56+,Tax-saving options,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0192,LinkedIn,18-25,Goal-based investing,Moderate,Low,Yes,No,Not Qualified / No Response,Yes
+L0193,Website,36-45,Retirement planning,High,Low,No,No,Not Qualified / No Response,Yes
+L0194,Instagram,18-25,Tax-saving options,High,Low,No,No,Not Qualified / No Response,Yes
+L0195,LinkedIn,26-35,Retirement planning,Low,Low,Yes,No,Not Qualified / No Response,Yes
+L0196,Referral,26-35,SIP basics,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0197,Referral,36-45,General financial education,Moderate,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0198,College Event,46-55,Tax-saving options,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0199,Referral,18-25,Tax-saving options,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0200,LinkedIn,46-55,Goal-based investing,Moderate,Medium,Yes,No,Not Qualified / No Response,Yes
+L0201,Referral,56+,Tax-saving options,Low,Medium,Yes,No,Not Qualified / No Response,Yes
+L0202,College Event,26-35,General financial education,Moderate,Low,Yes,No,Not Qualified / No Response,Yes
+L0203,Referral,36-45,Goal-based investing,High,Low,No,No,Not Qualified / No Response,Yes
+L0204,Referral,46-55,SIP basics,High,Low,Yes,No,Not Qualified / No Response,Yes
+L0205,Referral,18-25,SIP basics,High,Medium,Yes,No,Not Qualified / No Response,Yes
+L0206,Website,26-35,General financial education,High,Medium,No,No,Not Qualified / No Response,Yes
+L0207,Website,26-35,SIP basics,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0208,Referral,36-45,Goal-based investing,High,Medium,Yes,Scheduled,Meeting Scheduled,No
+L0209,Referral,36-45,Goal-based investing,Low,Low,Yes,No,Not Qualified / No Response,Yes
+L0210,College Event,36-45,Goal-based investing,Moderate,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0211,Website,26-35,Goal-based investing,High,Low,No,No,Not Qualified / No Response,Yes
+L0212,Referral,46-55,Retirement planning,High,Low,No,No,Not Qualified / No Response,Yes
+L0213,Website,26-35,SIP basics,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0214,Referral,36-45,SIP basics,High,Medium,No,No,Not Qualified / No Response,Yes
+L0215,Instagram,36-45,General financial education,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0216,Instagram,46-55,SIP basics,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0217,College Event,26-35,General financial education,Low,Medium,Yes,No,Not Qualified / No Response,No
+L0218,College Event,46-55,Goal-based investing,High,Medium,Yes,No,Not Qualified / No Response,No
+L0219,LinkedIn,46-55,General financial education,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0220,College Event,56+,Retirement planning,Low,Medium,Yes,Scheduled,Meeting Scheduled,Yes
+L0221,College Event,26-35,Tax-saving options,Low,Low,No,No,Not Qualified / No Response,Yes
+L0222,College Event,36-45,SIP basics,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0223,College Event,36-45,Retirement planning,High,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0224,College Event,56+,Retirement planning,Low,Low,No,No,Not Qualified / No Response,Yes
+L0225,College Event,36-45,General financial education,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0226,Website,56+,Tax-saving options,High,Low,No,No,Not Qualified / No Response,Yes
+L0227,College Event,46-55,General financial education,High,High,Yes,Scheduled,Meeting Scheduled,No
+L0228,LinkedIn,26-35,Goal-based investing,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0229,LinkedIn,46-55,Goal-based investing,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0230,Referral,36-45,Goal-based investing,Low,Low,No,No,Not Qualified / No Response,Yes
+L0231,Instagram,46-55,SIP basics,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0232,Website,36-45,Goal-based investing,High,Low,No,No,Not Qualified / No Response,Yes
+L0233,College Event,36-45,Retirement planning,Low,Low,No,No,Not Qualified / No Response,Yes
+L0234,Referral,46-55,SIP basics,Low,Medium,Yes,No,Not Qualified / No Response,Yes
+L0235,College Event,46-55,Retirement planning,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0236,Referral,46-55,General financial education,High,Low,No,No,Not Qualified / No Response,Yes
+L0237,Referral,56+,SIP basics,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0238,LinkedIn,36-45,SIP basics,Moderate,Medium,No,No,Not Qualified / No Response,No
+L0239,College Event,36-45,SIP basics,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0240,Instagram,18-25,Goal-based investing,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0241,Instagram,26-35,General financial education,High,Medium,No,No,Not Qualified / No Response,Yes
+L0242,Website,18-25,SIP basics,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0243,LinkedIn,56+,Goal-based investing,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0244,College Event,36-45,Retirement planning,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0245,College Event,56+,General financial education,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0246,Website,36-45,Tax-saving options,High,Medium,Yes,No,Not Qualified / No Response,Yes
+L0247,LinkedIn,56+,Tax-saving options,High,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0248,Referral,56+,General financial education,Low,Low,Yes,No,Not Qualified / No Response,Yes
+L0249,College Event,56+,Goal-based investing,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0250,College Event,18-25,Retirement planning,Low,Low,No,No,Not Qualified / No Response,Yes
+L0251,LinkedIn,26-35,Goal-based investing,High,Medium,No,No,Not Qualified / No Response,Yes
+L0252,Instagram,56+,Retirement planning,High,Medium,No,No,Not Qualified / No Response,Yes
+L0253,Referral,26-35,Goal-based investing,High,Medium,Yes,No,Not Qualified / No Response,Yes
+L0254,College Event,46-55,Retirement planning,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0255,Referral,36-45,Retirement planning,High,Medium,No,No,Not Qualified / No Response,Yes
+L0256,Referral,46-55,Tax-saving options,High,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0257,Website,56+,General financial education,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0258,Instagram,36-45,SIP basics,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0259,LinkedIn,36-45,Goal-based investing,Low,Low,No,No,Not Qualified / No Response,Yes
+L0260,Instagram,18-25,General financial education,High,Medium,No,No,Not Qualified / No Response,Yes
+L0261,College Event,26-35,Retirement planning,Low,Low,No,No,Not Qualified / No Response,Yes
+L0262,Website,26-35,SIP basics,High,Medium,Yes,No,Not Qualified / No Response,Yes
+L0263,Instagram,46-55,Goal-based investing,Moderate,High,Yes,Scheduled,Meeting Scheduled,Yes
+L0264,Referral,18-25,SIP basics,High,Medium,No,No,Not Qualified / No Response,Yes
+L0265,College Event,18-25,Retirement planning,Moderate,High,Yes,Scheduled,Meeting Scheduled,Yes
+L0266,LinkedIn,46-55,Retirement planning,High,Low,No,No,Not Qualified / No Response,Yes
+L0267,Website,36-45,General financial education,High,Medium,No,No,Not Qualified / No Response,Yes
+L0268,LinkedIn,56+,General financial education,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0269,Referral,26-35,SIP basics,Moderate,Low,Yes,No,Not Qualified / No Response,Yes
+L0270,LinkedIn,36-45,Retirement planning,Low,Medium,Yes,Scheduled,Meeting Scheduled,Yes
+L0271,Instagram,56+,Goal-based investing,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0272,Website,26-35,Retirement planning,Moderate,Low,Yes,No,Not Qualified / No Response,Yes
+L0273,Instagram,18-25,Tax-saving options,Moderate,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0274,Referral,56+,General financial education,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0275,Referral,26-35,SIP basics,High,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0276,LinkedIn,56+,Tax-saving options,High,Medium,No,No,Not Qualified / No Response,Yes
+L0277,College Event,26-35,Retirement planning,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0278,LinkedIn,56+,Goal-based investing,High,Medium,No,No,Not Qualified / No Response,Yes
+L0279,College Event,18-25,General financial education,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0280,College Event,18-25,SIP basics,High,Medium,No,No,Not Qualified / No Response,Yes
+L0281,Instagram,36-45,General financial education,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0282,Instagram,56+,Goal-based investing,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0283,LinkedIn,26-35,General financial education,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0284,Referral,18-25,Goal-based investing,Moderate,Low,Yes,No,Not Qualified / No Response,Yes
+L0285,Website,46-55,Tax-saving options,High,Low,No,No,Not Qualified / No Response,No
+L0286,LinkedIn,18-25,Tax-saving options,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0287,Referral,46-55,Goal-based investing,Moderate,Low,Yes,No,Not Qualified / No Response,Yes
+L0288,College Event,26-35,Tax-saving options,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0289,Instagram,18-25,SIP basics,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0290,Instagram,26-35,Goal-based investing,Moderate,Medium,Yes,No,Not Qualified / No Response,Yes
+L0291,Instagram,18-25,SIP basics,High,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0292,Website,26-35,Retirement planning,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0293,College Event,18-25,Retirement planning,High,Low,Yes,No,Not Qualified / No Response,No
+L0294,College Event,26-35,SIP basics,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0295,College Event,36-45,General financial education,High,Medium,No,No,Not Qualified / No Response,Yes
+L0296,Referral,26-35,Tax-saving options,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0297,Referral,36-45,SIP basics,High,Low,Yes,No,Not Qualified / No Response,Yes
+L0298,College Event,46-55,SIP basics,Moderate,Low,Yes,No,Not Qualified / No Response,Yes
+L0299,LinkedIn,46-55,Retirement planning,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0300,College Event,46-55,Retirement planning,Low,Medium,Yes,Scheduled,Meeting Scheduled,Yes
+L0301,Website,56+,Goal-based investing,Moderate,Low,Yes,No,Not Qualified / No Response,Yes
+L0302,Instagram,36-45,Retirement planning,Moderate,Low,Yes,No,Not Qualified / No Response,Yes
+L0303,Website,56+,Retirement planning,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0304,Instagram,56+,General financial education,Low,Low,No,No,Not Qualified / No Response,Yes
+L0305,Referral,36-45,SIP basics,Low,High,Yes,Scheduled,Meeting Scheduled,Yes
+L0306,Instagram,56+,Retirement planning,Moderate,Low,Yes,No,Not Qualified / No Response,Yes
+L0307,LinkedIn,46-55,General financial education,High,Medium,No,No,Not Qualified / No Response,Yes
+L0308,College Event,46-55,Goal-based investing,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0309,LinkedIn,36-45,Retirement planning,Moderate,High,Yes,Completed,Converted,Yes
+L0310,Instagram,18-25,Tax-saving options,High,Low,No,No,Not Qualified / No Response,Yes
+L0311,Instagram,26-35,Tax-saving options,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0312,Instagram,46-55,General financial education,High,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0313,LinkedIn,46-55,Goal-based investing,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0314,Instagram,56+,Goal-based investing,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0315,Website,18-25,SIP basics,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0316,Instagram,18-25,Retirement planning,High,Low,No,No,Not Qualified / No Response,Yes
+L0317,LinkedIn,18-25,SIP basics,High,Low,Yes,No,Not Qualified / No Response,Yes
+L0318,College Event,36-45,General financial education,Moderate,Low,No,No,Not Qualified / No Response,No
+L0319,LinkedIn,26-35,SIP basics,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0320,College Event,56+,Tax-saving options,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0321,LinkedIn,18-25,Tax-saving options,Moderate,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0322,Referral,18-25,SIP basics,Low,Low,No,No,Not Qualified / No Response,Yes
+L0323,Website,18-25,Retirement planning,Low,Medium,Yes,No,Not Qualified / No Response,Yes
+L0324,LinkedIn,36-45,General financial education,Low,High,Yes,Completed,Converted,Yes
+L0325,Instagram,56+,Goal-based investing,Moderate,Low,No,No,Not Qualified / No Response,No
+L0326,Website,36-45,General financial education,High,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0327,Website,26-35,General financial education,Low,Low,No,No,Not Qualified / No Response,Yes
+L0328,Referral,26-35,General financial education,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0329,LinkedIn,26-35,SIP basics,High,Medium,No,No,Not Qualified / No Response,Yes
+L0330,Website,46-55,Retirement planning,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0331,Website,36-45,Goal-based investing,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0332,Instagram,56+,Goal-based investing,Low,Medium,Yes,No,Not Qualified / No Response,Yes
+L0333,Website,18-25,Tax-saving options,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0334,Instagram,46-55,Tax-saving options,Moderate,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0335,Website,36-45,Goal-based investing,Moderate,High,Yes,Scheduled,Meeting Scheduled,Yes
+L0336,Website,26-35,Goal-based investing,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0337,Website,18-25,Tax-saving options,High,Medium,No,No,Not Qualified / No Response,Yes
+L0338,Website,36-45,Goal-based investing,Moderate,Medium,Yes,No,Not Qualified / No Response,Yes
+L0339,LinkedIn,26-35,Retirement planning,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0340,Website,26-35,Goal-based investing,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0341,Referral,36-45,Retirement planning,High,Medium,No,No,Not Qualified / No Response,Yes
+L0342,Website,26-35,Tax-saving options,Low,Low,Yes,No,Not Qualified / No Response,Yes
+L0343,Referral,56+,Goal-based investing,Moderate,High,Yes,Scheduled,Meeting Scheduled,Yes
+L0344,Referral,36-45,General financial education,High,Medium,No,No,Not Qualified / No Response,Yes
+L0345,LinkedIn,36-45,Tax-saving options,High,Medium,No,No,Not Qualified / No Response,Yes
+L0346,Referral,46-55,Tax-saving options,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0347,College Event,18-25,Goal-based investing,High,Low,No,No,Not Qualified / No Response,Yes
+L0348,Referral,18-25,Goal-based investing,High,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0349,Referral,26-35,Tax-saving options,High,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0350,LinkedIn,46-55,SIP basics,Moderate,Medium,Yes,Scheduled,Meeting Scheduled,Yes
+L0351,LinkedIn,56+,Goal-based investing,High,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0352,Referral,56+,General financial education,High,Medium,No,No,Not Qualified / No Response,Yes
+L0353,Referral,26-35,General financial education,Low,Low,No,No,Not Qualified / No Response,Yes
+L0354,LinkedIn,36-45,Goal-based investing,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,No
+L0355,College Event,56+,General financial education,High,Medium,No,No,Not Qualified / No Response,Yes
+L0356,Referral,46-55,Goal-based investing,High,Low,Yes,No,Not Qualified / No Response,Yes
+L0357,Website,46-55,SIP basics,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0358,Instagram,36-45,Tax-saving options,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0359,Referral,46-55,SIP basics,Moderate,Low,Yes,No,Not Qualified / No Response,Yes
+L0360,Website,36-45,SIP basics,High,Medium,No,No,Not Qualified / No Response,Yes
+L0361,Instagram,26-35,General financial education,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0362,LinkedIn,26-35,Goal-based investing,High,Medium,Yes,No,Not Qualified / No Response,Yes
+L0363,Website,56+,Retirement planning,Moderate,Medium,Yes,No,Not Qualified / No Response,Yes
+L0364,Instagram,26-35,Tax-saving options,High,Medium,No,No,Not Qualified / No Response,Yes
+L0365,College Event,26-35,Tax-saving options,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0366,LinkedIn,56+,Tax-saving options,High,Low,No,No,Not Qualified / No Response,Yes
+L0367,LinkedIn,56+,SIP basics,Moderate,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0368,Referral,56+,General financial education,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0369,Instagram,36-45,SIP basics,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0370,LinkedIn,56+,Retirement planning,High,Low,Yes,No,Not Qualified / No Response,Yes
+L0371,College Event,26-35,General financial education,Low,Low,Yes,No,Not Qualified / No Response,Yes
+L0372,Referral,46-55,General financial education,Low,Low,No,No,Not Qualified / No Response,Yes
+L0373,Instagram,26-35,Goal-based investing,High,Low,Yes,No,Not Qualified / No Response,Yes
+L0374,LinkedIn,46-55,Goal-based investing,Moderate,Medium,Yes,No,Not Qualified / No Response,Yes
+L0375,Referral,18-25,Tax-saving options,Low,Low,No,No,Not Qualified / No Response,Yes
+L0376,College Event,46-55,General financial education,High,Low,Yes,No,Not Qualified / No Response,Yes
+L0377,Website,36-45,General financial education,Moderate,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0378,Website,46-55,General financial education,Low,Medium,Yes,Scheduled,Meeting Scheduled,Yes
+L0379,Referral,18-25,Goal-based investing,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0380,Website,26-35,Retirement planning,High,Low,Yes,No,Not Qualified / No Response,Yes
+L0381,Instagram,56+,Retirement planning,Low,Medium,Yes,No,Not Qualified / No Response,Yes
+L0382,College Event,36-45,General financial education,High,Low,No,No,Not Qualified / No Response,Yes
+L0383,Referral,36-45,General financial education,Moderate,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0384,College Event,18-25,Retirement planning,Moderate,Medium,Yes,Scheduled,Meeting Scheduled,Yes
+L0385,Instagram,26-35,Retirement planning,High,Medium,No,No,Not Qualified / No Response,Yes
+L0386,LinkedIn,26-35,General financial education,High,Low,Yes,No,Not Qualified / No Response,Yes
+L0387,LinkedIn,18-25,SIP basics,Moderate,Medium,Yes,No,Not Qualified / No Response,Yes
+L0388,LinkedIn,46-55,Tax-saving options,High,Medium,No,No,Not Qualified / No Response,No
+L0389,Referral,18-25,General financial education,Moderate,Low,Yes,No,Not Qualified / No Response,Yes
+L0390,LinkedIn,36-45,Tax-saving options,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0391,Referral,18-25,SIP basics,Low,Low,Yes,No,Not Qualified / No Response,Yes
+L0392,Website,26-35,Goal-based investing,Moderate,Medium,No,No,Not Qualified / No Response,No
+L0393,Instagram,36-45,Retirement planning,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0394,Website,36-45,Retirement planning,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0395,LinkedIn,18-25,SIP basics,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0396,College Event,26-35,General financial education,High,Low,No,No,Not Qualified / No Response,Yes
+L0397,Website,46-55,Retirement planning,Moderate,Low,No,No,Not Qualified / No Response,No
+L0398,LinkedIn,18-25,SIP basics,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0399,LinkedIn,26-35,Retirement planning,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0400,LinkedIn,36-45,Retirement planning,High,Low,No,No,Not Qualified / No Response,Yes
+L0401,LinkedIn,56+,Goal-based investing,Low,High,Yes,Scheduled,Meeting Scheduled,Yes
+L0402,Website,56+,Goal-based investing,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0403,Instagram,36-45,SIP basics,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0404,Referral,26-35,General financial education,High,Medium,No,No,Not Qualified / No Response,Yes
+L0405,Website,26-35,Goal-based investing,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0406,College Event,18-25,Tax-saving options,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0407,College Event,46-55,Tax-saving options,High,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0408,Website,56+,SIP basics,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0409,LinkedIn,56+,Tax-saving options,High,Low,No,No,Not Qualified / No Response,Yes
+L0410,LinkedIn,46-55,Goal-based investing,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0411,Website,36-45,SIP basics,High,Low,No,No,Not Qualified / No Response,Yes
+L0412,LinkedIn,56+,SIP basics,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0413,Instagram,18-25,Goal-based investing,Low,Low,No,No,Not Qualified / No Response,Yes
+L0414,Instagram,18-25,SIP basics,High,Low,No,No,Not Qualified / No Response,Yes
+L0415,LinkedIn,36-45,General financial education,High,Low,No,No,Not Qualified / No Response,Yes
+L0416,Referral,26-35,Tax-saving options,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0417,Website,36-45,Goal-based investing,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0418,LinkedIn,46-55,General financial education,Moderate,Medium,No,No,Not Qualified / No Response,No
+L0419,Instagram,36-45,SIP basics,High,Low,No,No,Not Qualified / No Response,Yes
+L0420,College Event,18-25,SIP basics,Low,Low,No,No,Not Qualified / No Response,Yes
+L0421,LinkedIn,36-45,Goal-based investing,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0422,Instagram,36-45,Retirement planning,Moderate,Low,Yes,No,Not Qualified / No Response,Yes
+L0423,Referral,36-45,SIP basics,High,High,Yes,Scheduled,Meeting Scheduled,Yes
+L0424,College Event,18-25,Retirement planning,Low,Medium,Yes,Scheduled,Meeting Scheduled,Yes
+L0425,Website,46-55,Tax-saving options,Moderate,Low,Yes,No,Not Qualified / No Response,Yes
+L0426,College Event,46-55,SIP basics,Moderate,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0427,LinkedIn,36-45,General financial education,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0428,Instagram,18-25,Goal-based investing,Low,Low,No,No,Not Qualified / No Response,Yes
+L0429,Referral,18-25,Goal-based investing,High,Medium,No,No,Not Qualified / No Response,Yes
+L0430,College Event,26-35,Goal-based investing,Moderate,Low,No,No,Not Qualified / No Response,Yes
+L0431,Website,18-25,Retirement planning,High,Low,No,No,Not Qualified / No Response,Yes
+L0432,Website,56+,SIP basics,High,Medium,Yes,No,Not Qualified / No Response,Yes
+L0433,College Event,56+,SIP basics,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0434,Instagram,26-35,Tax-saving options,Moderate,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0435,Referral,46-55,Tax-saving options,Low,Medium,No,No,Not Qualified / No Response,No
+L0436,Instagram,26-35,General financial education,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0437,LinkedIn,36-45,Goal-based investing,Low,Low,Yes,No,Not Qualified / No Response,Yes
+L0438,Referral,46-55,Tax-saving options,Low,Low,Yes,No,Not Qualified / No Response,Yes
+L0439,Instagram,36-45,Retirement planning,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0440,Referral,46-55,General financial education,Low,Medium,Yes,Scheduled,Meeting Scheduled,Yes
+L0441,Website,46-55,Goal-based investing,High,Medium,No,No,Not Qualified / No Response,Yes
+L0442,LinkedIn,18-25,Retirement planning,Low,Low,No,No,Not Qualified / No Response,No
+L0443,Instagram,46-55,Tax-saving options,High,Low,No,No,Not Qualified / No Response,Yes
+L0444,Website,18-25,SIP basics,Low,Low,No,No,Not Qualified / No Response,Yes
+L0445,Website,36-45,SIP basics,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0446,College Event,46-55,Goal-based investing,Moderate,Low,No,No,Not Qualified / No Response,No
+L0447,LinkedIn,26-35,Tax-saving options,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0448,LinkedIn,26-35,SIP basics,High,Medium,No,No,Not Qualified / No Response,Yes
+L0449,LinkedIn,46-55,General financial education,Moderate,Low,No,No,Not Qualified / No Response,No
+L0450,Instagram,46-55,Retirement planning,High,Medium,Yes,No,Not Qualified / No Response,Yes
+L0451,LinkedIn,36-45,Goal-based investing,High,Low,No,No,Not Qualified / No Response,Yes
+L0452,LinkedIn,36-45,Retirement planning,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0453,Instagram,18-25,Tax-saving options,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0454,LinkedIn,56+,Tax-saving options,High,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0455,Instagram,26-35,Tax-saving options,High,Low,No,No,Not Qualified / No Response,Yes
+L0456,College Event,46-55,Tax-saving options,Low,Low,No,No,Not Qualified / No Response,Yes
+L0457,College Event,18-25,Tax-saving options,High,Medium,No,No,Not Qualified / No Response,Yes
+L0458,College Event,36-45,Retirement planning,Moderate,Low,Yes,No,Not Qualified / No Response,No
+L0459,Website,26-35,General financial education,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,No
+L0460,Referral,56+,Retirement planning,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0461,Website,18-25,Retirement planning,High,Low,No,No,Not Qualified / No Response,Yes
+L0462,Instagram,18-25,General financial education,Moderate,Medium,Yes,Scheduled,Meeting Scheduled,Yes
+L0463,College Event,18-25,Tax-saving options,Moderate,Medium,Yes,No,Not Qualified / No Response,Yes
+L0464,LinkedIn,36-45,Retirement planning,High,Low,Yes,No,Not Qualified / No Response,Yes
+L0465,College Event,26-35,Goal-based investing,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0466,Instagram,18-25,General financial education,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0467,College Event,36-45,General financial education,Low,Low,No,No,Not Qualified / No Response,Yes
+L0468,Website,46-55,Retirement planning,Moderate,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0469,Referral,26-35,SIP basics,High,Low,No,No,Not Qualified / No Response,Yes
+L0470,Website,36-45,Retirement planning,Low,Medium,Yes,No,Not Qualified / No Response,Yes
+L0471,Website,18-25,SIP basics,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0472,LinkedIn,46-55,Goal-based investing,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0473,College Event,26-35,Retirement planning,Moderate,Low,Yes,No,Not Qualified / No Response,No
+L0474,Website,36-45,SIP basics,Moderate,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0475,Referral,26-35,Goal-based investing,Low,Low,No,No,Not Qualified / No Response,Yes
+L0476,College Event,18-25,Tax-saving options,High,Medium,Yes,Scheduled,Meeting Scheduled,Yes
+L0477,LinkedIn,26-35,General financial education,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0478,Instagram,26-35,Goal-based investing,High,Low,No,No,Not Qualified / No Response,Yes
+L0479,College Event,36-45,Tax-saving options,Moderate,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0480,Website,46-55,General financial education,High,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0481,Instagram,18-25,Tax-saving options,Low,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0482,Referral,56+,Goal-based investing,Low,Medium,Yes,Scheduled,Meeting Scheduled,Yes
+L0483,Instagram,26-35,Tax-saving options,Low,High,Yes,Scheduled,Meeting Scheduled,Yes
+L0484,LinkedIn,46-55,Goal-based investing,High,Low,No,No,Not Qualified / No Response,Yes
+L0485,Referral,46-55,Tax-saving options,Low,Medium,No,No,Not Qualified / No Response,Yes
+L0486,Referral,46-55,Goal-based investing,Moderate,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0487,Instagram,18-25,SIP basics,High,Medium,No,No,Not Qualified / No Response,Yes
+L0488,College Event,18-25,Goal-based investing,High,Medium,No,No,Not Qualified / No Response,Yes
+L0489,LinkedIn,36-45,SIP basics,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0490,Website,46-55,Retirement planning,Low,Low,No,No,Not Qualified / No Response,Yes
+L0491,Instagram,26-35,SIP basics,Moderate,Medium,Yes,Not scheduled,Qualified - Follow-up,No
+L0492,Instagram,56+,Tax-saving options,Moderate,Medium,No,No,Not Qualified / No Response,Yes
+L0493,Website,18-25,Goal-based investing,High,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0494,Referral,36-45,General financial education,Moderate,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0495,Website,46-55,Retirement planning,Low,Low,Yes,No,Not Qualified / No Response,Yes
+L0496,College Event,18-25,Tax-saving options,High,Low,No,No,Not Qualified / No Response,Yes
+L0497,LinkedIn,46-55,General financial education,High,Medium,No,No,Not Qualified / No Response,Yes
+L0498,Instagram,36-45,Goal-based investing,Low,Medium,Yes,Scheduled,Meeting Scheduled,Yes
+L0499,LinkedIn,18-25,Goal-based investing,Moderate,Medium,Yes,Not scheduled,Qualified - Follow-up,Yes
+L0500,Referral,36-45,SIP basics,Moderate,Low,Yes,No,Not Qualified / No Response,Yes
